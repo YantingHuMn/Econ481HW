@@ -94,7 +94,7 @@ import numpy as np
 
 def estimate_ols(y: np.array, X: np.array) -> np.array:
     """
-    This function is to estimate OLS coefficients using the closed-form solution.
+    This function is to estimate OLS coefficients.
 
     Parameters:
     y (array): Response variables
